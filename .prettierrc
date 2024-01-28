@@ -1,0 +1,11 @@
+{
+    "tabWidth": 4,
+    "quotes": "double",
+    "semicolons": "always",
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "bracketSameLine": false,
+    "arrowParens": "always",
+    "singleAttributePerLine": true
+}
+  
